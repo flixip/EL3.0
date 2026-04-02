@@ -1,0 +1,30 @@
+# 前端
+Frontend/node_modules
+Frontend/dist
+Frontend/.vite
+Frontend/.env
+
+# 模型与缓存
+Predict/*.pt
+Predict/*.pth
+Predict/__pycache__
+Predict/.venv
+Predict/venv
+*.pyc
+*.pyo
+*.pyd
+
+# 爬虫
+Crawler/__pycache__
+Crawler/.venv
+
+# 数据库
+Database/*.db
+Database/*.sqlite3
+*.log
+
+# 系统文件
+.DS_Store
+.idea
+.vscode
+*.swp
